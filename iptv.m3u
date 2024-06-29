@@ -372,3 +372,90 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="ShareExt@Relax",Gaora°Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RTM_1_dec=native🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",0KEY_dec=native🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SUKAN_RTM_dec=native🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RTB_SUKMA.INDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RTB_ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",VTV_CAnThO
+http://171.238.181.52:18080/156.m3u8?Shareext/ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Vtv_5
+http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",RealMadrid tv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",MUtv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",sportstv 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",StrongmanChampionLeague
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",WWE.network
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Nature
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 01
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FQNXJ0MO6ttxzALgTZPj8NI/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 02
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FWPdC_NYqSzlike0OkZcx-c/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 03
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FYVg2t6cSG1ZyKDBcGyNUoA/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 04
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FcakS19tik5qH6wjyfJmt_s/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 05
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FWv_FtJl-5APQlhkfbBDyQI/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 06
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FcCObjlXpZcZT8f-9aSkr68/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 07
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FWpbM6cZ865_qgweuM997QA/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 08
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FZNHQ_khDPpEX3AOv-x1AHM/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 09
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FTaarm28f3uH40OaVKIY-Mg/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 10
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7Fe2nQ2O8LgmlWLETIr6Yabs/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 11
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FehxCAtyXshni05hAuyfNgk/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 12
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FSpOITWRE2NAmtdeqanlzSY/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 13
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FeznYLCd-JT7OHtppPDDk7M/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 14
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FR1IZjtciEKl_P-8EGydBvA/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 15
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FfWMNk-5fdgOMb0x4Ga0vQM/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 16
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FToTpFJ2Kf-XHhjvFr5HQUU/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 17
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FdAwcMdiC1v8iTJGtUl2Xsc/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 18
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FT79bkOKrOcGsUfmKRMz3YM/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 19
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FZtlccvy89Z9aGx-mRRb0do/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@COPA•AMERICA~2024",COPA AMERICA 20
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FZaPfnJS2zYRbD2PsxflzR0/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 1✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FVjtkapfGOrI2LeKOxVaKLs/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 2✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FfxmqTMYlrtDwEZlouzl6VQ/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 3✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FQH4bBMX_VnuuqLXlevte04/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 4✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FVBnpyj8GdawkBU7fZcI0_Y/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 5✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FfJQNuh7GQp36NNMfMz3-0k/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 6✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FRzfh5lvqqDFfpcE8cfiiaI/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 7✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FQgwFd0fYb0-dGiVmlV_GiY/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 8✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FaHC808Z0A4h-3sUPe27ZxQ/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EUROCOPA•~2024",EUROCOPA | Event 9 ✅
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FfX-rarBz8X-VfrkWfsj-7o/ts
