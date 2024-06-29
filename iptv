@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@SHAREEXT@REBORN
+https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
+https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PSJ TV_🇲🇨
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SSC 1
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FTvdUY96f2F3cV8TqTHH8Zk/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SSC 2
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FRH1_MPlv9hJg5MEUgjisdM/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",SSC 3
+http://xyz.lattv.com.co:8080/play/2ZBO5-tx65zcjhe7fnx7FfEdtONtvpRnjban5QVAxAI/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",FS-1_(LIVE-only)_euro/america cup
+https://katanaboss.online/chunklist/hlsch1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",F1-(LIVE-only)
+https://katanaboss.online/chunklist/hlsch2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",UFC-FIGHT_(LIVE-only)
+https://katanaboss.online/chunklist/hlsch3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",TNT_SPORTS(LIVE-only)
+https://katanaboss.online/chunklist/hlsch4.m3u8
