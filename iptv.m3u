@@ -661,3 +661,157 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS" , FIFA+ 6
 https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 1 HD
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports 2
+http://103.120.172.74:4500
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="ShareExt@PREMIUM✓SPORTS",StarSports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png" group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 1 HD
+http://103.120.172.74:1140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="ShareExt@PREMIUM✓SPORTS",SonySports Ten 5
+http://103.120.172.74:5300
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ShareExt@PREMIUM✓SPORTS",Sports 18 1 HD
+http://103.120.172.74:5500
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",ESPN
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609327
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Action
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609318
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Blitz
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609311
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Cricket
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609323
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Football
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609319
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Golf
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609324
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Grandstand
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609315
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport LaLiga
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609313
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Maximo
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609328
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Motorsports
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609325
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport PremierLeague
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609312
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport PSL
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609314
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Rugby
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609322
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Tennis
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609326
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Variety 01
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609317
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Variety 02
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609316
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Variety 03
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609321
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF√SUPERSPORTS",SuperSport Variety 04
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/609320
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 1 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565881
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 2 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565882
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 3 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565883
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 4 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565884
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 5 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565885
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 6 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565886
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 7 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565887
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 8 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565888
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 9 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565889
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 10 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565890
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 11 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565891
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@SPORTS_Replay",Sports Replay 12 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565892
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Highlights ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565895
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 1 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565896
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 2 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565897
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 3 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565898
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 4 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565899
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 5 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565900
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 6 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565901
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 7 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565902
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 8 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565903
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 9 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565904
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 10 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565905
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 11 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565906
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@EFL_Replay",EFL-CH Replay 12 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565907
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga HighLights ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565938
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 1 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565939
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 2 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565940
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 3 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565941
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 4 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565942
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 5 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565943
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 6 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565944
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 7 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565945
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 8 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565946
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@BUNDESLIGA_Replay",BundesLiga Replay 9 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565947
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague HighLights ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565952
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 1 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565953
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 2 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565954
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 3 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565955
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 4 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565956
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 5 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565957
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 6 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565958
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 7 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565959
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 8 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565960
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 9 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565961
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SHAREEXT@CHAMPIONLEAGUE_Replay",ChampionsLeague Replay 10 ᴴᴰ
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/565962
