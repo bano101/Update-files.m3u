@@ -1,3 +1,726 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="SHAREEXT@LIVE|SPORTS",Thaipbs
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",TumenisktanSport
+http://217.174.225.146/hls/ch004_720/index.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",2 
+http://217.174.225.146/hls/ch002_720/index.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",3 
+http://217.174.225.146/hls/ch003_720/index.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",5 
+http://217.174.225.146/hls/ch005_720/index.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",6 
+http://217.174.225.146/hls/ch006_720/index.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",7 
+http://217.174.225.146/hls/ch007_720/index.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",LAX_SPORTS 
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8?shareext.ts
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="ShareExt@Television_INDONESIAN",TRANS 7(detik)
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="ShareExt@Television_INDONESIAN",TRANS TV(detik)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="ShareExt@Television_INDONESIAN",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="ShareExt@Television_INDONESIAN",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://4.bp.blogspot.com/-b6SFy2eD3ag/W-7TbguhADI/AAAAAAAAKQU/-EfHT6hSZucmuh8GXBjXUd8MGXp4h2oUQCLcBGAs/s1600/Kompas%2BTV.png" group-title="nasional",Kompas TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-id="Net.Id" tvg-logo="https://i.ytimg.com/vi/xWk1sG5ZGX4/maxresdefault.jpg" group-title="nasional",Net TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://3.bp.blogspot.com/-VzCVjd2vawE/V_srtHNdUlI/AAAAAAAAGG0/lK90NZHbL5kN3JbZ04zGK7t_c2D7LhNPQCLcB/s1600/ANTV-Indonesia-Logo.png" group-title="nasional",ANTV
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-id="IndoiarIDFbHD" tvg-logo="https://4.bp.blogspot.com/-7lDm4I3IP1M/W-7QLgK53RI/AAAAAAAAKQE/Qbd5wlu2J6oRwnMgfzwH90MURdXd5YB7QCLcBGAs/s1600/Indosiar.png" group-title="nasional",INDOSIAR 
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="nasional",MOJI TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="nasional" tvg-id="SCTV.id",SCTV 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/115px-UEFA_Euro_2024_Logo.svg.png" group-title="EURO2024", TRT1
+https://d1u68oyra9spme.cloudfront.net/master_2.m3u8
+
+#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F83.png" group-title="COPA AMERICA",SI HD PLUS
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1280x720_2560800/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="SPORTS PREMIUM",PremierSports 1.(server.1)
+http://iptvtree.net:8080/paulthom01/fb97ea32/1097
+
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRk_fRaupZP0lvLnLW0-kJo5wbvhZO8C14UPZ6_3uFPo_bFk91l0FmCe9nUPqRVF7g2Zr4sOmQSFma2VExk-dTWCkHOvN6lNOhUgB-gU1nwqwXbliUNq6DOZGx-r4xuse8Yc1Cdm_3xEBsm__6XNJprWlNQCNakPM0_bQMwhrvmGB-XGMTTX7nJXA_Fpk/s320/logo%20bandeltv%20v2cut.png" group-title="SPORTS PREMIUM",PremierSports 2.(server.1)
+http://iptvtree.net:8080/paulthom01/fb97ea32/4723
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png" group-title="MALAYSIA", HBO
+http://iptvtree.net:8080/AmirBilali/76448035/157518
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO East HD  " tvg-logo="" group-title="USA ",US HBO East HD  
+http://fortv.cc:8080/PerronFamily/Queensway/46713
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK MOVIES:  SKY HITS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES:  SKY HITS
+http://fortv.cc:8080/PerronFamily/Queensway/35255
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
+http://fortv.cc:8080/PerronFamily/Queensway/35254
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CINEMA DRAMA
+http://fortv.cc:8080/PerronFamily/Queensway/35251
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD  
+http://fortv.cc:8080/PerronFamily/Queensway/35248
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY COMEDY
+http://fortv.cc:8080/PerronFamily/Queensway/35253
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
+http://fortv.cc:8080/PerronFamily/Queensway/35252
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY GREATS
+http://fortv.cc:8080/PerronFamily/Queensway/35249
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
+http://fortv.cc:8080/PerronFamily/Queensway/35256
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: SKY 1 HD" tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY 1 HD
+http://fortv.cc:8080/PerronFamily/Queensway/35246
+
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD " tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="MOVIE NETWORKS",US SONY Movies FHD 
+http://fortv.cc:8080/PerronFamily/Queensway/2214
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIE NETWORKS",US Lifetime Movies 
+http://fortv.cc:8080/PerronFamily/Queensway/20863
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US STARZ ENCORE Black
+http://fortv.cc:8080/PerronFamily/Queensway/16141
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",USA:  Showtime NEXT
+http://fortv.cc:8080/PerronFamily/Queensway/9316
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",USA:  STARZ EDGE 
+http://fortv.cc:8080/PerronFamily/Queensway/16143
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="MOVIE NETWORKS",US 5 StarMax
+http://fortv.cc:8080/PerronFamily/Queensway/13381
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East) " tvg-logo="" group-title="MOVIE NETWORKS",US ActionMAX (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/21013
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE NETWORKS",US Cinemax (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/13380
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/13214
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIE NETWORKS",US Epix Drive IN (S)
+http://fortv.cc:8080/PerronFamily/Queensway/14193
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
+http://fortv.cc:8080/PerronFamily/Queensway/12744
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
+http://fortv.cc:8080/PerronFamily/Queensway/12730
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 
+http://fortv.cc:8080/PerronFamily/Queensway/9264
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 2 (A)
+http://fortv.cc:8080/PerronFamily/Queensway/9816
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIE NETWORKS",US HBO Comedy (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/17773
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE NETWORKS",US HBO Family (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/17772
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/9266
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) (H)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIE NETWORKS",US HBO Zone (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/9265
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="MOVIE NETWORKS",US HDNET MOVIES 
+http://fortv.cc:8080/PerronFamily/Queensway/16265
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max 
+http://fortv.cc:8080/PerronFamily/Queensway/17776
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="US MotorTrend (A)" tvg-logo="https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG" group-title="USA ",US MotorTrend (A)
+http://fortv.cc:8080/PerronFamily/Queensway/10399
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US MovieMAX (East) (H)" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="MOVIE NETWORKS",US MovieMAX (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/13480
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East) (H)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US MoviePlex (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/1829
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIE NETWORKS",US Cinemax Outermax (X)
+http://fortv.cc:8080/PerronFamily/Queensway/21012
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) (H)" tvg-logo="" group-title="MOVIE NETWORKS",US RetroPlex (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/66379
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East 
+http://fortv.cc:8080/PerronFamily/Queensway/46214
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/13219
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",US Showtime Extreme (East) (SP)
+http://fortv.cc:8080/PerronFamily/Queensway/13220
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIE NETWORKS",US Showtime Family Zone (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/13481
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) (H)" tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US Showtime Women (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/17778
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/17775
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) (H)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/9301
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz East (S)
+http://fortv.cc:8080/PerronFamily/Queensway/9299
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIE NETWORKS",US Starz Encore Westerns (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/16263
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) (H)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz in Black (East) (H)
+http://fortv.cc:8080/PerronFamily/Queensway/17779
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
+http://fortv.cc:8080/PerronFamily/Queensway/21091
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="MOVIE NETWORKS",US ThrillerMax (East)
+http://fortv.cc:8080/PerronFamily/Queensway/17774
+
+====USA=====
+#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="US CBSN New York (D)" tvg-logo="" group-title="USA ",US CBSN New York (D)
+http://fortv.cc:8080/PerronFamily/Queensway/46754
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US FOX Sports 1 " tvg-logo="" group-title="USA ",US FOX Sports 1 
+http://fortv.cc:8080/PerronFamily/Queensway/46792
+
+#EXTINF:-1 tvg-id="" tvg-name="Infowars" tvg-logo="" group-title="USA ",Infowars
+http://fortv.cc:8080/PerronFamily/Queensway/78578
+
+#EXTINF:-1 tvg-id="charge.us" tvg-name="US CHARGE! " tvg-logo="" group-title="USA ",US CHARGE! 
+http://fortv.cc:8080/PerronFamily/Queensway/79594
+#EXTINF:-1 tvg-id="court.us" tvg-name="US  Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="USA ",US  Court TV
+http://fortv.cc:8080/PerronFamily/Queensway/21092
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="US Pop " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA ",US Pop 
+http://fortv.cc:8080/PerronFamily/Queensway/20976
+#EXTINF:-1 tvg-id="unimas69wami.us" tvg-name="US UniMas  " tvg-logo="" group-title="USA ",US UniMas  
+http://fortv.cc:8080/PerronFamily/Queensway/57969
+#EXTINF:-1 tvg-id="univision.us" tvg-name="US Univision (East) (SP)" tvg-logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png" group-title="USA ",US Univision (East) (SP)
+http://fortv.cc:8080/PerronFamily/Queensway/15336
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA: A&E" tvg-logo="" group-title="USA ",USA: A&E
+http://fortv.cc:8080/PerronFamily/Queensway/59056
+#EXTINF:-1 tvg-id="aande.us" tvg-name="US A&E (A)" tvg-logo="https://juicetv.app/channellogo/ae.png" group-title="USA ",US A&E (A)
+http://fortv.cc:8080/PerronFamily/Queensway/2201
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="USA ",USA: ABC
+http://fortv.cc:8080/PerronFamily/Queensway/22990
+#EXTINF:-1 tvg-id="adultswim.us" tvg-name="CA Adult Swim (R)" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA ",CA Adult Swim (R)
+http://fortv.cc:8080/PerronFamily/Queensway/11644
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="US Altitude Sports HD " tvg-logo="" group-title="USA ",US Altitude Sports HD 
+http://fortv.cc:8080/PerronFamily/Queensway/79545
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="USA ",US AMC 
+http://fortv.cc:8080/PerronFamily/Queensway/18925
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US American Heroes Channel " tvg-logo="" group-title="USA ",US American Heroes Channel 
+http://fortv.cc:8080/PerronFamily/Queensway/10456
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US Animal Planet " tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="USA ",US Animal Planet 
+http://fortv.cc:8080/PerronFamily/Queensway/17870
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="US Antenna TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="USA ",US Antenna TV 
+http://fortv.cc:8080/PerronFamily/Queensway/20180
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="US Aspire (A)" tvg-logo="" group-title="USA ",US Aspire (A)
+http://fortv.cc:8080/PerronFamily/Queensway/21927
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="US AXS TV " tvg-logo="" group-title="USA ",US AXS TV 
+http://fortv.cc:8080/PerronFamily/Queensway/48324
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA: Baby First HD" tvg-logo="" group-title="USA ",USA: Baby First HD
+http://fortv.cc:8080/PerronFamily/Queensway/58765
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US BBC America" tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" group-title="USA ",US BBC America
+http://fortv.cc:8080/PerronFamily/Queensway/20194
+#EXTINF:-1 tvg-id="bet.us" tvg-name="US BET (East) " tvg-logo="" group-title="USA ",US BET (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/46703
+#EXTINF:-1 tvg-id="betgospel.us" tvg-name="USA: Bet Gospel" tvg-logo="" group-title="USA ",USA: Bet Gospel
+http://fortv.cc:8080/PerronFamily/Queensway/66080
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US BET (East)  " tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="USA ",US BET (East)  
+http://fortv.cc:8080/PerronFamily/Queensway/13702
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="USA: BET SOUL" tvg-logo="" group-title="USA ",USA: BET SOUL
+http://fortv.cc:8080/PerronFamily/Queensway/21844
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US Bloomberg" tvg-logo="https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="USA ",US Bloomberg
+http://fortv.cc:8080/PerronFamily/Queensway/15158
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="US Bounce XL " tvg-logo="" group-title="USA ",US Bounce XL 
+http://fortv.cc:8080/PerronFamily/Queensway/48323
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US Bravo (East)   " tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="USA ",US Bravo (East)   
+http://fortv.cc:8080/PerronFamily/Queensway/20859
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="US BUZZR (STV)" tvg-logo="" group-title="USA ",US BUZZR (STV)
+http://fortv.cc:8080/PerronFamily/Queensway/21896
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US Cartoon Network " tvg-logo="" group-title="USA ",US Cartoon Network 
+http://fortv.cc:8080/PerronFamily/Queensway/46708
+#EXTINF:-1 tvg-id="" tvg-name="US CBS News " tvg-logo="" group-title="USA ",US CBS News 
+http://fortv.cc:8080/PerronFamily/Queensway/21259
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT" tvg-logo="" group-title="USA ",USA: CMT
+http://fortv.cc:8080/PerronFamily/Queensway/46706
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="USA ",USA: CMT HD
+http://fortv.cc:8080/PerronFamily/Queensway/10476
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA ",US CNBC 
+http://fortv.cc:8080/PerronFamily/Queensway/9815
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US CNBC World" tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA ",US CNBC World
+http://fortv.cc:8080/PerronFamily/Queensway/20860
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA ",US CNN 
+http://fortv.cc:8080/PerronFamily/Queensway/1817
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="" group-title="USA ",US CNN 
+http://fortv.cc:8080/PerronFamily/Queensway/104884
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US Comedy Central (East) (F)" tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="USA ",US Comedy Central (East) (F)
+http://fortv.cc:8080/PerronFamily/Queensway/7466
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet (S)" tvg-logo="" group-title="USA ",US Comet (S)
+http://fortv.cc:8080/PerronFamily/Queensway/66244
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US Cooking Channel " tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png" group-title="USA ",US Cooking Channel 
+http://fortv.cc:8080/PerronFamily/Queensway/9229
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="US Cozi (H)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA ",US Cozi (H)
+http://fortv.cc:8080/PerronFamily/Queensway/11868
+#EXTINF:-1 tvg-id="decadeswvah.us" tvg-name="US Decades " tvg-logo="https://decades.com/images/logo_tagline.png" group-title="USA ",US Decades 
+http://fortv.cc:8080/PerronFamily/Queensway/20189
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="US Destination America (A)" tvg-logo="https://fontmeme.com/images/destination-america-new-logo.png" group-title="USA ",US Destination America (A)
+http://fortv.cc:8080/PerronFamily/Queensway/14222
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel (East)" tvg-logo="" group-title="USA ",US Discovery Channel (East)
+http://fortv.cc:8080/PerronFamily/Queensway/46720
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel East " tvg-logo="https://logodix.com/logo/997920.png" group-title="USA ",US Discovery Channel East 
+http://fortv.cc:8080/PerronFamily/Queensway/9811
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="USA ",USA: DISCOVERY FAMILY
+http://fortv.cc:8080/PerronFamily/Queensway/10538
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA: Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="USA ",USA: Discovery Life HD
+http://fortv.cc:8080/PerronFamily/Queensway/9861
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="CA Discovery Velocity HD " tvg-logo="" group-title="USA ",CA Discovery Velocity HD 
+http://fortv.cc:8080/PerronFamily/Queensway/46212
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US DIY Network " tvg-logo="https://dockanddeck.com/wp-content/uploads/2019/02/diy.png" group-title="USA ",US DIY Network 
+http://fortv.cc:8080/PerronFamily/Queensway/10503
+#EXTINF:-1 tvg-id="dogtv.us" tvg-name="USA: DOGTV" tvg-logo="" group-title="USA ",USA: DOGTV
+http://fortv.cc:8080/PerronFamily/Queensway/53539
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US E! Entertainment Television East " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" group-title="USA ",US E! Entertainment Television East 
+http://fortv.cc:8080/PerronFamily/Queensway/11651
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA: Food Network HD" tvg-logo="https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png" group-title="USA ",USA: Food Network HD
+http://fortv.cc:8080/PerronFamily/Queensway/7323
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US Fox Business Network" tvg-logo="https://www.openthebooks.com/assets/1/6/Fox_Business1.png" group-title="USA ",US Fox Business Network
+http://fortv.cc:8080/PerronFamily/Queensway/17639
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US Fox News  " tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="USA ",US Fox News  
+http://fortv.cc:8080/PerronFamily/Queensway/1818
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US Freeform East" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA ",US Freeform East
+http://fortv.cc:8080/PerronFamily/Queensway/13370
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US Fuse " tvg-logo="" group-title="USA ",US Fuse 
+http://fortv.cc:8080/PerronFamily/Queensway/46701
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US FX East " tvg-logo="" group-title="USA ",US FX East 
+http://fortv.cc:8080/PerronFamily/Queensway/46690
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US FXM " tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png" group-title="USA ",US FXM 
+http://fortv.cc:8080/PerronFamily/Queensway/10260
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US FXX (East) " tvg-logo="" group-title="USA ",US FXX (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/46699
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="US FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="USA ",US FYI
+http://fortv.cc:8080/PerronFamily/Queensway/9240
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="US Latin Galavision" tvg-logo="" group-title="USA ",US Latin Galavision
+http://fortv.cc:8080/PerronFamily/Queensway/58770
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="US GetTV " tvg-logo="https://logodix.com/logo/1826254.png" group-title="USA ",US GetTV 
+http://fortv.cc:8080/PerronFamily/Queensway/18366
+#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="US Great American Country " tvg-logo="https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png" group-title="USA ",US Great American Country 
+http://fortv.cc:8080/PerronFamily/Queensway/17640
+#EXTINF:-1 tvg-id="grit.us" tvg-name="US Grit TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="USA ",US Grit TV
+http://fortv.cc:8080/PerronFamily/Queensway/20861
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US Hallmark Channel" tvg-logo="" group-title="USA ",US Hallmark Channel
+http://fortv.cc:8080/PerronFamily/Queensway/46719
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="US Hallmark Drama " tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="USA ",US Hallmark Drama 
+http://fortv.cc:8080/PerronFamily/Queensway/9307
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US Hallmark Movies & Mysteries " tvg-logo="https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png" group-title="USA ",US Hallmark Movies & Mysteries 
+http://fortv.cc:8080/PerronFamily/Queensway/10289
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO East HD  " tvg-logo="" group-title="USA ",US HBO East HD  
+http://fortv.cc:8080/PerronFamily/Queensway/46713
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US Heroes & Icons (Los Angeles) " tvg-logo="" group-title="USA ",US Heroes & Icons (Los Angeles) 
+http://fortv.cc:8080/PerronFamily/Queensway/66087
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US HGTV (East) " tvg-logo="" group-title="USA ",US HGTV (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/46717
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US HISTORY " tvg-logo="" group-title="USA ",US HISTORY 
+http://fortv.cc:8080/PerronFamily/Queensway/46724
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US History Channel " tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="USA ",US History Channel 
+http://fortv.cc:8080/PerronFamily/Queensway/15017
+#EXTINF:-1 tvg-id="hln.us" tvg-name="US HLN " tvg-logo="https://cdn.strivecloud.io/wp-content/uploads/2020/07/14143602/hln-273x202.png" group-title="USA ",US HLN 
+http://fortv.cc:8080/PerronFamily/Queensway/17748
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1412745090/blg54azaoqz0cj3at5zd.png" group-title="USA ",US IFC 
+http://fortv.cc:8080/PerronFamily/Queensway/9272
+#EXTINF:-1 tvg-id="insp.us" tvg-name="US insp " tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png" group-title="USA ",US insp 
+http://fortv.cc:8080/PerronFamily/Queensway/16262
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US ID Investigation Discovery " tvg-logo="" group-title="USA ",US ID Investigation Discovery 
+http://fortv.cc:8080/PerronFamily/Queensway/46810
+#EXTINF:-1 tvg-id="ion.us" tvg-name="US ION " tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="USA ",US ION 
+http://fortv.cc:8080/PerronFamily/Queensway/9297
+#EXTINF:-1 tvg-id="lafftv.us" tvg-name="US Laff (KNVA)" tvg-logo="https://sky21.com/wp-content/uploads/2019/02/LAFF.png" group-title="USA ",US Laff (KNVA)
+http://fortv.cc:8080/PerronFamily/Queensway/17777
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime " tvg-logo="" group-title="USA ",US Lifetime 
+http://fortv.cc:8080/PerronFamily/Queensway/46714
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="USA ",US Lifetime
+http://fortv.cc:8080/PerronFamily/Queensway/9275
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime Movie" tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="USA ",US Lifetime Movie
+http://fortv.cc:8080/PerronFamily/Queensway/2208
+#EXTINF:-1 tvg-id="logo.us" tvg-name="USA: LOGO TV" tvg-logo="https://n7.nextpng.com/sticker-png/347/134/sticker-png-logo-tv-television-channel-viacom-media-networks-others.png" group-title="USA ",USA: LOGO TV
+http://fortv.cc:8080/PerronFamily/Queensway/20862
+#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="USA ",US MeTV Network East
+http://fortv.cc:8080/PerronFamily/Queensway/16149
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="US MotorTrend (A)" tvg-logo="https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG" group-title="USA ",US MotorTrend (A)
+http://fortv.cc:8080/PerronFamily/Queensway/10399
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US MSNBC (F)" tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="USA ",US MSNBC (F)
+http://fortv.cc:8080/PerronFamily/Queensway/21376
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US MSNBC " tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="USA ",US MSNBC 
+http://fortv.cc:8080/PerronFamily/Queensway/9296
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US MTV " tvg-logo="https://image.flaticon.com/icons/png/128/871/871009.png" group-title="USA ",US MTV 
+http://fortv.cc:8080/PerronFamily/Queensway/9818
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US MTV2 " tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png" group-title="USA ",US MTV2 
+http://fortv.cc:8080/PerronFamily/Queensway/9308
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="USA ",US Nat Geo Wild East (A)
+http://fortv.cc:8080/PerronFamily/Queensway/11664
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US National Geographic " tvg-logo="" group-title="USA ",US National Geographic 
+http://fortv.cc:8080/PerronFamily/Queensway/46722
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US National Geographic (East) " tvg-logo="https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png" group-title="USA ",US National Geographic (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/9277
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA: NBC" tvg-logo="" group-title="USA ",USA: NBC
+http://fortv.cc:8080/PerronFamily/Queensway/46687
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="US NESN " tvg-logo="" group-title="USA ",US NESN 
+http://fortv.cc:8080/PerronFamily/Queensway/46726
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="US Newsmax TV " tvg-logo="https://image.roku.com/developer_channels/prod/54d11237dc9d300eb0bfcf2b596c820d1f513459a3a4d4b7f69716d69aebe8d0.png" group-title="USA ",US Newsmax TV 
+http://fortv.cc:8080/PerronFamily/Queensway/18939
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US Nick Jr " tvg-logo="" group-title="USA ",US Nick Jr 
+http://fortv.cc:8080/PerronFamily/Queensway/46710
+#EXTINF:-1 tvg-id="" tvg-name="USA: NTD NEWS. " tvg-logo="" group-title="USA ",USA: NTD NEWS. 
+http://fortv.cc:8080/PerronFamily/Queensway/53527
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US One America News" tvg-logo="" group-title="USA ",US One America News
+http://fortv.cc:8080/PerronFamily/Queensway/21752
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US Outdoor Channel" tvg-logo="https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2018/06/TVA-19-June-5.png" group-title="USA ",US Outdoor Channel
+http://fortv.cc:8080/PerronFamily/Queensway/9244
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA: OUTSIDE TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71iXofscZDL.png" group-title="USA ",USA: OUTSIDE TV
+http://fortv.cc:8080/PerronFamily/Queensway/20865
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA: OWN" tvg-logo="" group-title="USA ",USA: OWN
+http://fortv.cc:8080/PerronFamily/Queensway/46698
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US Oxygen (A)" tvg-logo="" group-title="USA ",US Oxygen (A)
+http://fortv.cc:8080/PerronFamily/Queensway/46695
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US Oxygen (East)   " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Oxygen_2008.png" group-title="USA ",US Oxygen (East)   
+http://fortv.cc:8080/PerronFamily/Queensway/9245
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network " tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="USA ",US Paramount Network 
+http://fortv.cc:8080/PerronFamily/Queensway/16201
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network " tvg-logo="" group-title="USA ",US Paramount Network 
+http://fortv.cc:8080/PerronFamily/Queensway/46694
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount TV " tvg-logo="https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png" group-title="USA ",US Paramount TV 
+http://fortv.cc:8080/PerronFamily/Queensway/10464
+#EXTINF:-1 tvg-id="pixltv.us" tvg-name="US PixL (S)" tvg-logo="" group-title="USA ",US PixL (S)
+http://fortv.cc:8080/PerronFamily/Queensway/21648
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="US Pursuit UP" tvg-logo="" group-title="USA ",US Pursuit UP
+http://fortv.cc:8080/PerronFamily/Queensway/22888
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="US Reelz " tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" group-title="USA ",US Reelz 
+http://fortv.cc:8080/PerronFamily/Queensway/10526
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="US Revolt " tvg-logo="" group-title="USA ",US Revolt 
+http://fortv.cc:8080/PerronFamily/Queensway/39276
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="US RFD-TV " tvg-logo="https://www.logolynx.com/images/logolynx/29/29694e6e70adeb8ed1c66a5f40c42af2.png" group-title="USA ",US RFD-TV 
+http://fortv.cc:8080/PerronFamily/Queensway/17868
+#EXTINF:-1 tvg-id="gacliving.us" tvg-name="US GAC Living (S)" tvg-logo="" group-title="USA ",US GAC Living (S)
+http://fortv.cc:8080/PerronFamily/Queensway/75654
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA: AMC Thrillers" tvg-logo="" group-title="USA ",USA: AMC Thrillers
+http://fortv.cc:8080/PerronFamily/Queensway/66243
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US Discovery Science " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="USA ",US Discovery Science 
+http://fortv.cc:8080/PerronFamily/Queensway/20866
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US Smithsonian Channel (East)   " tvg-logo="" group-title="USA ",US Smithsonian Channel (East)   
+http://fortv.cc:8080/PerronFamily/Queensway/31150
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US Sportsman Channel (A)" tvg-logo="" group-title="USA ",US Sportsman Channel (A)
+http://fortv.cc:8080/PerronFamily/Queensway/79913
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US SUNDANCE " tvg-logo="" group-title="USA ",US SUNDANCE 
+http://fortv.cc:8080/PerronFamily/Queensway/46712
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="US Syfy (East)   " tvg-logo="" group-title="USA ",US Syfy (East)   
+http://fortv.cc:8080/PerronFamily/Queensway/46685
+#EXTINF:-1 tvg-id="trinitybroadcastingnetwork.us" tvg-name="US TBN " tvg-logo="" group-title="USA ",US TBN 
+http://fortv.cc:8080/PerronFamily/Queensway/21895
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US TBS " tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="USA ",US TBS 
+http://fortv.cc:8080/PerronFamily/Queensway/20867
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel " tvg-logo="" group-title="USA ",US Golf Channel 
+http://fortv.cc:8080/PerronFamily/Queensway/46728
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US The Weather Channel (A)" tvg-logo="" group-title="USA ",US The Weather Channel (A)
+http://fortv.cc:8080/PerronFamily/Queensway/18926
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (East)  " tvg-logo="" group-title="USA ",US TLC (East)  
+http://fortv.cc:8080/PerronFamily/Queensway/46691
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC East " tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="USA ",US TLC East 
+http://fortv.cc:8080/PerronFamily/Queensway/12734
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (east) " tvg-logo="" group-title="USA ",US TLC (east) 
+http://fortv.cc:8080/PerronFamily/Queensway/47703
+#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US TNT (West) " tvg-logo="" group-title="USA ",US TNT (West) 
+http://fortv.cc:8080/PerronFamily/Queensway/46688
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA ",US TNT East 
+http://fortv.cc:8080/PerronFamily/Queensway/10455
+#EXTINF:-1 tvg-id="travel.us" tvg-name="US Travel Channel East " tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png" group-title="USA ",US Travel Channel East 
+http://fortv.cc:8080/PerronFamily/Queensway/9315
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="US TRUTV East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="USA ",US TRUTV East 
+http://fortv.cc:8080/PerronFamily/Queensway/10224
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="CA Turner Classic Movies" tvg-logo="" group-title="USA ",CA Turner Classic Movies
+http://fortv.cc:8080/PerronFamily/Queensway/66242
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US TV Land " tvg-logo="" group-title="USA ",US TV Land 
+http://fortv.cc:8080/PerronFamily/Queensway/46696
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA: TV Land Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="USA ",USA: TV Land Classic HD
+http://fortv.cc:8080/PerronFamily/Queensway/9271
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="US TV One " tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png" group-title="USA ",US TV One 
+http://fortv.cc:8080/PerronFamily/Queensway/20868
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="US Univision (East) (SP)" tvg-logo="" group-title="USA ",US Univision (East) (SP)
+http://fortv.cc:8080/PerronFamily/Queensway/46692
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="US Up TV (SP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Upmoji-orange.png" group-title="USA ",US Up TV (SP)
+http://fortv.cc:8080/PerronFamily/Queensway/10525
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US USA Network (East)  " tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="USA ",US USA Network (East)  
+http://fortv.cc:8080/PerronFamily/Queensway/10252
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 (East) " tvg-logo="" group-title="USA ",US VH1 (East) 
+http://fortv.cc:8080/PerronFamily/Queensway/46705
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1413371145/ziqmu9l76bjxx9rz9qat.png" group-title="USA ",US VH1 
+http://fortv.cc:8080/PerronFamily/Queensway/7404
+#EXTINF:-1 tvg-id="vice.us" tvg-name="US VICELAND " tvg-logo="" group-title="USA ",US VICELAND 
+http://fortv.cc:8080/PerronFamily/Queensway/46697
+#EXTINF:-1 tvg-id="wapaamerica.us" tvg-name="US WAPA America " tvg-logo="" group-title="USA ",US WAPA America 
+http://fortv.cc:8080/PerronFamily/Queensway/76481
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="US WE tv " tvg-logo="https://godish.com/wp-content/uploads/channel-logos/we.png" group-title="USA ",US WE tv 
+http://fortv.cc:8080/PerronFamily/Queensway/9237
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="US World Fishing Network (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA ",US World Fishing Network (F)
+http://fortv.cc:8080/PerronFamily/Queensway/10477
+#EXTINF:-1 tvg-id="tudnu.us" tvg-name="US TUDN (SP)" tvg-logo="" group-title="USA ",US TUDN (SP)
+http://fortv.cc:8080/PerronFamily/Queensway/82241
+#EXTINF:-1 tvg-id="gacliving.us" tvg-name="US GAC Family " tvg-logo="" group-title="USA ",US GAC Family 
+http://fortv.cc:8080/PerronFamily/Queensway/104877
+#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="US Longhorn Network " tvg-logo="" group-title="USA ",US Longhorn Network 
+http://fortv.cc:8080/PerronFamily/Queensway/105257
+#EXTINF:-1 tvg-id="univisiontlnovelas.us" tvg-name="US Latin Univision " tvg-logo="" group-title="USA ",US Latin Univision 
+http://fortv.cc:8080/PerronFamily/Queensway/108248
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="US: QVC" tvg-logo="" group-title="USA ",US: QVC
+http://fortv.cc:8080/PerronFamily/Queensway/117707
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US Game Show Network" tvg-logo="" group-title="USA ",US Game Show Network
+http://fortv.cc:8080/PerronFamily/Queensway/120633
+#EXTINF:-1 tvg-id="truecrimenetwork.us" tvg-name="US True Crime Network (KARE) (SP)" tvg-logo="" group-title="USA ",US True Crime Network (KARE) (SP)
+http://fortv.cc:8080/PerronFamily/Queensway/121130
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="US The Cowboy Channel (SP)" tvg-logo="" group-title="USA ",US The Cowboy Channel (SP)
+http://fortv.cc:8080/PerronFamily/Queensway/122527
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",iNews asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",I AM Channel
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",ASTRO VINMEENT
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Television_MALAYSIAN",婢抽棬鍗槦鍙�
+http://61.244.22.5/ch3/ch3.live/playelist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan/HK_television",中天娱乐
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan/HK_television",BBS_TV(불교)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan/HK_television",乌克兰 Ⅰ M2 音乐频道
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan/HK_television",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan/HK_television",大愛一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan/HK_television",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h3Ly6bg/FB-IMG-1626507629868.jpg"group-title="ShaReExT@Taiwan/HK_television",孝廉電視台
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv1(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv2(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv3(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv4(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch4-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv5(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv6(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv7(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv8(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv9(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv10(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv11(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv12(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv13(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv14(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv15(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch15-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv16(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch16-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv17(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch17-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv18(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch18-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv19(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv20(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch20-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv21(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch21-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv22(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch22-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv23(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch23-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv24(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv25(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch25-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv26(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch26-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv27(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch27-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv28(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch28-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv29(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch29-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv30(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv31(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv32(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch32-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv33(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch33-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv34(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch34-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv35(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch35-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv36(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch36-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv37(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch37-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv38(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch38-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv39(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch39-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv40(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch40-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv41(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv42(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch42-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv43(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch43-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv44(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv45(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv46(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch46-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv47(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch47-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv48(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch48-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv49(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv50(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch50-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1119Z6/Good-Tv-Share-Ext-Group.png"group-title="ShareExt@GoodTVtaiwan",GoodTv51(setAuto)
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch51-2.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",TAMIL TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",KINGS TV
+http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",DURAIS TV
+http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",LIFE TV
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",SIVAN TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",LOTUS TV
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",THREE TAMIL TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",7STAR2
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",BLESSING TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MAKKAL TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",MARCHANA TV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",3 TAMIL
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL_television",VAANAVIL TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
